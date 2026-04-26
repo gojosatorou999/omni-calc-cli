@@ -2,7 +2,7 @@
 
 An advanced, feature-rich Command Line Interface (CLI) calculator written in Python. OmniCalc supports complex mathematical expressions, scientific functions, and maintains a session history.
 
-## Features
+# Features
 
 - **Basic Arithmetic**: Addition, subtraction, multiplication, division, exponentiation, and modulo.
 - **Scientific Functions**: `sin`, `cos`, `tan`, `sqrt`, `log`, `log10`, `exp`, `abs`, and `round`.
