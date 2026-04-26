@@ -11,7 +11,7 @@ An advanced, feature-rich Command Line Interface (CLI) calculator written in Pyt
 - **Single Expression Mode**: Pass expressions directly via command line arguments.
 - **History**: Track your calculations during the session.
 
-## Installation
+# Installation
 
 Ensure you have Python 3.x installed.
 
